@@ -16,14 +16,14 @@ better you'll get.
 
 1.  Fork and clone this repository.
 1.  Change into the new directory.
-1.  Fulfill the listed requirements.
+2.  Open the `index.html` in the browser and open the console.log. 
+3.  Fulfill the listed requirements.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
 required to turn in your submission by making a pull request on the original
 repository.
 
-Unless otherwise specified on the calendar, homework is due the next morning by
-10:00am.
+Unless otherwise specified on the calendar, homework is due by the date specified on the course schedule. 
 
 **Make a commit after each prompt.**
 
@@ -43,7 +43,7 @@ in class. This is intended to help you learn to become a more independent develo
 
 **If you're curious about whether your code passes the tests written for this assignment, you can do the following:**
 
-1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
+1. From inside the root of this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
 1. Run `npm test` in the directory. Read the output to checkout which tests your code is passing and failing.
 1. If there are any errors, try fixing them and running the code again.
 
