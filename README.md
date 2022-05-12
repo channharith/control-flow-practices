@@ -15,7 +15,7 @@ better you'll get.
 ## Instructions
 
 1.  Fork and clone this repository.
-1.  Change into the new directory.
+1.  Change into the new directory and checkout a dev branch.
 2.  Open the `index.html` in the browser and open the console.log. 
 3.  Fulfill the listed requirements.
 
@@ -23,7 +23,7 @@ Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
 required to turn in your submission by making a pull request on the original
 repository.
 
-Unless otherwise specified on the calendar, homework is due by the date specified on the course schedule. 
+Homework is due by the date specified on the course schedule at 9 am PT. 
 
 **Make a commit after each prompt.**
 
@@ -31,15 +31,20 @@ Unless otherwise specified on the calendar, homework is due by the date specifie
 
 There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
 Work through all of the prompts. Each prompt is in the form of a JavaScript
-comment. Write your code to solve the prompt after the comment. Commit your code
-after you solve a prompt.
+comment. Write your code to solve the prompt after the comment. 
+
+You may comment in the function invocations `prompt1()`, `prompt2()`, etc. to see the output of your code in the browser. 
 
 Some prompts will require you to practice researching methods we did not learn
 in class. This is intended to help you learn to become a more independent developer.
 
-### Reminder: You are required to make a commit after each prompt.
+To be considered passing, at least 12 out of the 16 (or 75% of) tests must pass (see below).
 
-### Optional:
+### Reminder: You are expected to make a commit after each prompt to build good Git habits.
+
+A commit message may be along the lines of "Complete prompt 2". 
+
+### Tests (Optional):
 
 **If you're curious about whether your code passes the tests written for this assignment, you can do the following:**
 
